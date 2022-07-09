@@ -13,5 +13,5 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ### Output:
 ```bash
-   simple interest = p*t*r
+   simple interest = p * t * r
 ```
